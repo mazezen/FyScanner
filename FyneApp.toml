@@ -1,0 +1,8 @@
+Website = "https://github.com/mazezen/FyScanner"
+
+[Details]
+  Icon = "./assets/Icon.png"
+  Name = "FyScanner"
+  ID = "dev.mazezen.FyScanner"
+  Version = "1.0.0"
+  Build = 2
