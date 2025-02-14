@@ -1,5 +1,7 @@
 # FyScanner 端口扫描器
 
+![](./assets/icon.png)
+
 ### 效果:
 ![](./assets/cut1.png)
 ![](./assets/cut2.png)
@@ -15,16 +17,16 @@ go run .
 OS
 ```shell
 go install fyne.io/fyne/v2/cmd/fyne@latest
-fyne package -os darwin -icon ./asset/Icon.png
+fyne package -os darwin -icon ./assets/Icon.png
 ```
 Windows
 ```shell
 go install fyne.io/fyne/v2/cmd/fyne@latest
-fyne package -os windows -icon ./asset/Icon.png
+fyne package -os windows -icon ./assets/Icon.png
 ```
 
 Linux
 ```shell
 go install fyne.io/fyne/v2/cmd/fyne@latest
-fyne package -os linux -icon ./asset/Icon.png
+fyne package -os linux -icon ./assets/Icon.png
 ```
